@@ -558,3 +558,227 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:14:52,596 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:14:52,596 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:14:52
+2024-12-26 23:14:52,596 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:14:52,597 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:14:53,316 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.72
+2024-12-26 23:14:53,316 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:14:53
+2024-12-26 23:14:53,316 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.72
+2024-12-26 23:14:53,316 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:14:53,316 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:17:11,399 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:17:11,400 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:17:11
+2024-12-26 23:17:11,400 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:17:11,400 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:17:12,135 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.74
+2024-12-26 23:17:12,135 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:17:12
+2024-12-26 23:17:12,135 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.74
+2024-12-26 23:17:12,135 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:17:12,135 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:17:37,698 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:17:37,698 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:17:37
+2024-12-26 23:17:37,699 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:17:37,699 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:17:38,461 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.76
+2024-12-26 23:17:38,462 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:17:38
+2024-12-26 23:17:38,462 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.76
+2024-12-26 23:17:38,462 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:17:38,462 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:19:38,761 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:19:38,761 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:19:38
+2024-12-26 23:19:38,761 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:19:38,762 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:19:39,498 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.74
+2024-12-26 23:19:39,498 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:19:39
+2024-12-26 23:19:39,498 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.74
+2024-12-26 23:19:39,499 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:19:39,499 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:22:17,200 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:22:17,201 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:22:17
+2024-12-26 23:22:17,201 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:22:17,201 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:22:17,938 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.74
+2024-12-26 23:22:17,938 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:22:17
+2024-12-26 23:22:17,938 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.74
+2024-12-26 23:22:17,938 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:22:17,938 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:23:35,522 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:23:35,522 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:23:35
+2024-12-26 23:23:35,522 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:23:35,523 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:23:36,263 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.74
+2024-12-26 23:23:36,263 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:23:36
+2024-12-26 23:23:36,263 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.74
+2024-12-26 23:23:36,263 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:23:36,263 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:24:32,608 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:24:32,608 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:24:32
+2024-12-26 23:24:32,608 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:24:32,609 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:24:33,322 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.72
+2024-12-26 23:24:33,323 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:24:33
+2024-12-26 23:24:33,323 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.72
+2024-12-26 23:24:33,323 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:24:33,323 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:24:55,714 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:24:55,714 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:24:55
+2024-12-26 23:24:55,714 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:24:55,715 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:24:56,432 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.72
+2024-12-26 23:24:56,432 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:24:56
+2024-12-26 23:24:56,432 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.72
+2024-12-26 23:24:56,432 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:24:56,432 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:26:06,218 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:26:06,218 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:26:06
+2024-12-26 23:26:06,218 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:26:06,219 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:26:06,943 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.72
+2024-12-26 23:26:06,943 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:26:06
+2024-12-26 23:26:06,943 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.72
+2024-12-26 23:26:06,943 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:26:06,943 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:26:56,615 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:26:56,615 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:26:56
+2024-12-26 23:26:56,615 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:26:56,616 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:26:57,360 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.75
+2024-12-26 23:26:57,360 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:26:57
+2024-12-26 23:26:57,360 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.75
+2024-12-26 23:26:57,361 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:26:57,361 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:28:04,121 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:28:04,121 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:28:04
+2024-12-26 23:28:04,121 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:28:04,121 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:28:04,846 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.73
+2024-12-26 23:28:04,847 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:28:04
+2024-12-26 23:28:04,847 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.73
+2024-12-26 23:28:04,847 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:28:04,847 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:29:03,742 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:29:03,743 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:29:03
+2024-12-26 23:29:03,743 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:29:03,743 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:29:04,469 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.73
+2024-12-26 23:29:04,469 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:29:04
+2024-12-26 23:29:04,469 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.73
+2024-12-26 23:29:04,469 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:29:04,470 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:31:59,062 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:31:59,062 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:31:59
+2024-12-26 23:31:59,063 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:31:59,063 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:31:59,787 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.73
+2024-12-26 23:31:59,787 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:31:59
+2024-12-26 23:31:59,787 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.73
+2024-12-26 23:31:59,787 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:31:59,787 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:35:03,313 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:35:03,313 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:35:03
+2024-12-26 23:35:03,313 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:35:03,314 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:35:04,067 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.75
+2024-12-26 23:35:04,067 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:35:04
+2024-12-26 23:35:04,067 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.75
+2024-12-26 23:35:04,068 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:35:04,068 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:37:06,423 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:37:06,423 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:37:06
+2024-12-26 23:37:06,424 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:37:06,424 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:37:07,210 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.79
+2024-12-26 23:37:07,210 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:37:07
+2024-12-26 23:37:07,210 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.79
+2024-12-26 23:37:07,210 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:37:07,210 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-26 23:38:53,415 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+2024-12-26 23:38:53,415 - INFO - START  EPIC_Training_course_cogito_fundamentals_170_day_1 Start Time = 2024-12-26 23:38:53
+2024-12-26 23:38:53,415 - INFO -  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initialize the configuration file parser
+2024-12-26 23:38:53,416 - INFO - Process  EPIC_Training_course_cogito_fundamentals_170_day_1 Step 0 - Initializing and starting Logging Process.
+2024-12-26 23:38:54,121 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 The total process duration was:0.71
+2024-12-26 23:38:54,121 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Stop Time = 2024-12-26 23:38:54
+2024-12-26 23:38:54,121 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Short process duration less than 3 Seconds:0.71
+2024-12-26 23:38:54,121 - INFO - PERFORMANCE  EPIC_Training_course_cogito_fundamentals_170_day_1 Performance optimization is not reccomended
+2024-12-26 23:38:54,122 - INFO - END  EPIC_Training_course_cogito_fundamentals_170_day_1 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
